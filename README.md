@@ -4,8 +4,8 @@
 
 <description>Stupid fast semi-static PHP/HTML/JS website starter. Built-in tailwind dark mode, dark mode toggle and GDPR/CCPA compliant cookie consent. Leveraging the gargantuan Nodejs ecosystem for local development, tailwind for styling and PHP/HTML/JS for semi-static creation. Deploy insanely fast with Heroku PHP Buildpack, PHP Composer, and a Procfile. Push changes near instantly by utiliziing Heroku's pipline feature and configuring automatic branch deployments. Compaitible with Heroku's free and paid dynos.</description>
 
-- [Live Preview](https://phpjelly.com/ "Live View")
-- [Live Page Speed Test](https://pagespeed.web.dev/report?url=https%3A%2F%2Fphpjelly.com%2F "Page Speed Report")
+- [Live Preview](https://chefbrandonsboxes.com/ "Live View")
+- [Live Page Speed Test](https://pagespeed.web.dev/report?url=https%3A%2F%2Fchefbrandonsboxes.com%2F "Page Speed Report")
 
 #### Deploy With
 
@@ -14,11 +14,11 @@
 - Heroku Cloudflare Purge Buildpack (Optional)
 - Heroku Free and Paid Dynos
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fuelviews/phpjelly)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fuelviews/chefbrandonsboxes-22)
 
 ## Install on Linux
 
-- Create new repo with [PHP Jelly](https://github.com/fuelviews/phpjelly/generate) repo
+- Create new repo with [PHP Jelly](https://github.com/fuelviews/chefbrandonsboxes-22/generate) repo
 - Clone "PHP Jelly" repo locally `git clone your-repo-url`
 - Install Docker and Docker Compose
 - Install [Homebrew]("https://brew.sh/")
@@ -28,7 +28,7 @@
 
 ## Install on MacOS
 
-- Create new repo with [PHP Jelly](https://github.com/fuelviews/phpjelly/generate) repo
+- Create new repo with [PHP Jelly](https://github.com/fuelviews/chefbrandonsboxes-22/generate) repo
 - Clone "PHP Jelly" repo locally `git clone your-repo-url`
 - Install Docker Desktop and enable Docker Compose
 - Install [Homebrew]("https://brew.sh/")
@@ -58,7 +58,7 @@
 
 ### Step Three
 
-- Create new repo with [PHP Jelly](https://github.com/fuelviews/phpjelly/generate) repo
+- Create new repo with [PHP Jelly](https://github.com/fuelviews/chefbrandonsboxes-22/generate) repo
 - Clone "PHP Jelly" repo locally `git clone your-repo-url`
 - Install node packages `yarn install`
 
@@ -93,7 +93,7 @@ In the project directory, you can run:
 - Builds sitemap.xml from specified live website location
 - Saves sitemap.xml to "/public/sitemap.xml"
 - Config file: "package.json"
-- Change the sitemap command with your live website location: "yarn generate-robot -r & yarn sitemap-generator -f ./public/sitemap.xml https://phpjelly.com/",
+- Change the sitemap command with your live website location: "yarn generate-robot -r & yarn sitemap-generator -f ./public/sitemap.xml https://chefbrandonsboxes.com/",
 
 ### `yarn prettier`
 

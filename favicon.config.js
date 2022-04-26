@@ -1,10 +1,10 @@
 {
 	"path": "/favicon/",
-	"appName": "PHP Jelly",
-	"appShortName": "PHPJelly",
+	"appName": "chefbrandonsboxes-22",
+	"appShortName": "chefbrandonsboxes-22",
 	"appDescription": "Stupid fast semi-static PHP/HTML/JS website starter",
 	"developerName": "skyjebus",
-	"developerURL": "https://github.com/fuelviews/phpjelly",
+	"developerURL": "https://github.com/fuelviews/chefbrandonsboxes-22",
 	"start_url": "/",
 	"background": "#171717",
 	"theme_color": "#171717",

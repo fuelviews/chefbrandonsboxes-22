@@ -1,14 +1,14 @@
 <?php
 
 // website config
-$name = "Company Name";
-$address = "";
+$name = "Chef Brandon's Boxes";
+$address = "715 Europe St";
 $al2 = ""; // address line two
-$city = "";
-$state = "";
-$zip = "";
-$phone = "888-888-8888";
-$hours = "M-F 9:00am - 5:00pm";
+$city = "Baton Rouge";
+$state = "LA";
+$zip = "70802";
+$phone = "225-284-6320";
+$hours = "";
 
 // socail media links config
 $gmb = "";
@@ -22,7 +22,7 @@ $yelp = "";
 ############################################################################################
 
 // hostname
-$domain = "phpjelly.com";
+$domain = "chefbrandonsboxes.com";
 
 // canonical Links
 $canonicalFilename =

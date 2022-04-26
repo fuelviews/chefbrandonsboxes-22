@@ -2,7 +2,7 @@
 $docRoot = getenv("DOCUMENT_ROOT");
 require $docRoot . "/script-header.php";
 ?>
-<title>Home - <?php echo $name; ?></title>
+<title>Healthy Food Subscriptions in Baton Rogue - <?php echo $name; ?></title>
 </head>
 <?php require $docRoot . "/header.php"; ?>
 
@@ -13,7 +13,7 @@ require $docRoot . "/script-header.php";
         <article class="flex-col py-12 md:py-32">
           <div class="flex-col">
             <h1 class="pb-4"><span class="font-extrabold text-white text-3xl md:text-4xl lg:text-5xl text-shadow-lg">
-                Our product is service.</span></h1>
+            Fresh Healthy FoodDelivered Directly to You</span></h1>
             <p class="text-zinc-50 pb-6 text-base md:text-lg font-semibold text-shadow-lg">
               We are convinced that new-generation time frames work effectively. State-of-the-art
               culture changes probably ensure standard disclosures. In order to assure that communication

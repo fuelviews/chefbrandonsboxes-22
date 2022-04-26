@@ -33,7 +33,7 @@ const img = () => src("images/*.{jpg,jpeg}")
   .pipe(dest("public/images/"));
 	webp();
 
-	const png = () => src("images/*.{png}")
+	const png = () => src("images/*.png")
   .pipe(sharpResponsive({
     formats: [
 	  // png
