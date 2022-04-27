@@ -19,8 +19,8 @@
                 <span class="inline-block mt-2 mr-1"><?php echo $phone; ?></span>
             </a>
         </p>
-        <div class="mt-2">
-        <p class="text-xs text-white hover:text-blue-300 font-semibold">Cash, check, and credit accepted.</p>
+        <div class="mt-3">
+        <p class="text-xs text-white font-semibol">Cash, check, and credit accepted.</p>
 </div>
       </div>
       <div class="mt-2 lg:mt-0 md:mx-auto">
@@ -68,7 +68,7 @@
 
       </div>
       <p class="mt-8 text-base text-white md:mt-0 md:order-1">
-      &copy; <?php echo date("Y"); ?> <?php echo $name; ?>, Inc. All rights reserved.   <a href="/terms-of-service/" class="text-base text-white hover:text-blue-300">Terms</a> | <a href="/privacy-policy/" class="text-base text-white hover:text-blue-300">Privacy</a> | <a href="/sitemap.xml" class="text-base text-white hover:text-blue-300">Sitemap</a>
+      &copy; <?php echo date("Y"); ?> <?php echo $name; ?>, LLC. All rights reserved.   <a href="/terms-of-service/" class="text-base text-white hover:text-blue-300">Terms</a> | <a href="/privacy-policy/" class="text-base text-white hover:text-blue-300">Privacy</a> | <a href="/sitemap.xml" class="text-base text-white hover:text-blue-300">Sitemap</a>
       </p>
     </div>
   </div>
