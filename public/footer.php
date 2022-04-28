@@ -39,7 +39,7 @@
         <div class="md:grid md:grid-cols-1 md:gap-8">
           <div>
             <a href="https://goo.gl/maps/kzAgnHQtHH2AH7wZ8" target="_blank">
-            <img class="rounded-xl h-40 mx-auto" loading="lazy" src="/images/maps-2xl.png"></a>
+            <img class="rounded-full h-48 w-48 object-cover mx-auto" loading="lazy" src="/images/maps-2xl.png"></a>
           </div>
         </div>
       </div>
