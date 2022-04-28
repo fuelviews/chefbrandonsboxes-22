@@ -68,7 +68,7 @@
             <div>
               <!-- Website Logo -->
               <a href="/" class="flex items-center py-0 px-2">
-               <img src="/images/chefblogo-xs.png" alt="Chef Blog Logo" class="w-48 py-4">
+               <img src="/images/chefblogo-md.png" alt="Chef Blog Logo" class="w-48 py-4">
                 <span class="sr-only"><?php echo $name; ?> Logo</span>
               </a>
             </div>
@@ -91,14 +91,18 @@
           </div>
           <!-- Secondary Navbar items -->
           <div class="hidden md:flex items-center space-x-3">
+            <a href="/contact/">
             <button type="button"
               class="scale-100 hover:scale-105 transition-transform duration-300 drop-shadow-sm hover:drop-shadow-lg inline-flex items-center px-3 py-2 shadow-sm text-base font-medium rounded-sm text-amber-800 hover:text-amber-900 border border-amber-500 dark:border-amber-600 dark:text-green-100 bg-gradient-to-b bg-amber-300 hover:from-amber-300 hover:via-amber-200 hover:to-amber-300 dark:hover:bg-green-600 hover:border-amber-600 dark:hover:border-green-200 dark:from-green-700 dark:via-green-600 dark:to-green-700 dark:hover:from-green-800 dark:hover:via-green-700 dark:hover:to-green-800 focus:outline-none focus:ring focus:ring-green-500">
               Order Boxes
             </button>
+</a>
+<a href="https://www.ezcater.com/catering/pvt/chef-brandons-boxes-3">
             <button type="button"
               class="scale-100 hover:scale-105 transition-transform duration-300 drop-shadow-sm hover:drop-shadow-lg inline-flex items-center px-3 py-2 shadow-sm text-base font-medium rounded-sm text-green-800 hover:text-green-900 border border-green-500 dark:border-green-600 dark:text-green-100 bg-gradient-to-b bg-green-300 hover:from-green-300 hover:via-green-200 hover:to-green-300 dark:hover:bg-green-600 hover:border-green-600 dark:hover:border-green-200 dark:from-green-700 dark:via-green-600 dark:to-green-700 dark:hover:from-green-800 dark:hover:via-green-700 dark:hover:to-green-800 focus:outline-none focus:ring focus:ring-green-500">
               Order Catering
             </button>
+</a>
           </div>
           <!-- Mobile menu button -->
           <div class="md:hidden flex items-center dark:text-white" id="menu-button-mobile">
