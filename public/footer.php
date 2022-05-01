@@ -68,7 +68,7 @@
 
       </div>
       <p class="mt-8 text-base text-white md:mt-0 md:order-1">
-      &copy; <?php echo date("Y"); ?> <?php echo $name; ?>, LLC. All rights reserved.   <a href="/terms-of-service/" class="text-base text-white hover:text-blue-300">Terms</a> | <a href="/privacy-policy/" class="text-base text-white hover:text-blue-300">Privacy</a> | <a href="/sitemap.xml" class="text-base text-white hover:text-blue-300">Sitemap</a>
+      &copy; <?php echo date("Y"); ?> <?php echo $name; ?>, LLC. All rights reserved.   <a href="/terms-of-service/" class="text-base text-white hover:text-blue-300">Terms</a> | <a href="/privacy-policy/" class="text-base text-white hover:text-blue-300">Privacy</a> | <a href="/sitemap.xml" class="text-base text-white hover:text-blue-300">Sitemap</a> | <span class="block md:inline-block"><a href="/credits/" class="underline">Credits</a></span>
       </p>
     </div>
   </div>
