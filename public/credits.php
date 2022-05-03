@@ -2,7 +2,7 @@
 $docRoot = getenv("DOCUMENT_ROOT");
 require $docRoot . "/script-header.php";
 ?>
-<title>Website Credits for Illumiante Painting</title>
+<title>Website Credits for Chef Brandon's Boxes</title>
 </head>
 <?php require $docRoot . "/header.php"; ?>
 
