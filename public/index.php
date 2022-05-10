@@ -139,7 +139,6 @@ require $docRoot . "/script-header.php";
 <p class="pb-4 font-semibold text-2xl">We also cater events</p>
 <p class="font-semibold text-xl text-neutral-600">Including:</p>
 <p class="font-semibold text-xl text-neutral-600">Private Parties</p>
-<p class="font-semibold text-xl text-neutral-600">$15-$20 family size protein box</p>
 <p class="font-semibold text-xl text-neutral-600">Tailgate Parties</p>
 <p class="font-semibold text-xl text-neutral-600">Business Breakfasts</p>
 <p class="font-semibold text-xl text-neutral-600">Business Luncheons</p>
