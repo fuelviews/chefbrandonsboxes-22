@@ -34,6 +34,7 @@
         </p>
         <p class="mt-4 text-white">
           Monday: 9am-5pm<br>
+          Tuesday: 9am-5pm<br>
           Wednesday: 9am-5pm<br>
           Thursday: 9am-5pm<br>
           Friday: 9am-5pm<br>
