@@ -4,7 +4,7 @@
 header('Content-Type:text/plain');
 
 // Output based on HTTP host
-if($_SERVER['HTTP_HOST'] == 'chef-brandons-boxes.herokuapp.com') {
+if(preg_match('/herokuapp/', $_SERVER['HTTP_HOST'])) {
 
     // Enter your test site robots.txt here
 
